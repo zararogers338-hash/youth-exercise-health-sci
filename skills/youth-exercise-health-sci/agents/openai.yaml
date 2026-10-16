@@ -1,0 +1,4 @@
+interface:
+  display_name: "儿童青少年运动与健康 SCI"
+  short_description: "面向 Frontiers 特刊的儿童青少年身体活动、运动干预研究与 SCI 投稿"
+  default_prompt: "使用 $youth-exercise-health-sci，核对特刊状态，并根据现有资源规划儿童青少年身体活动与健康研究。"
